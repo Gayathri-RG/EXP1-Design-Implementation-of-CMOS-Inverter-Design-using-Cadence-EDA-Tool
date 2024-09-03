@@ -27,6 +27,8 @@ v.	Analog simulation by spectre
 
 
 i)	Procedure for Creating New Library.
+![Screenshot 2024-09-03 230449](https://github.com/user-attachments/assets/82771ec0-e5f8-4aaf-b031-f1a4cf2d5091)
+
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
