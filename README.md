@@ -27,8 +27,6 @@ v.	Analog simulation by spectre
 
 
 i)	Procedure for Creating New Library.
-![Screenshot 2024-09-03 230449](https://github.com/user-attachments/assets/82771ec0-e5f8-4aaf-b031-f1a4cf2d5091)
-
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
@@ -48,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![Screenshot 2024-09-03 230449](https://github.com/user-attachments/assets/0535541c-bf06-48ad-afc0-30c7adf9375d)
+
 
 
  
@@ -66,7 +65,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+
 
 
 iv)	Creating the new test cell view
@@ -78,7 +77,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![Screenshot 2024-09-03 233322](https://github.com/user-attachments/assets/37414f6b-c927-49e8-a9a3-bd392c91c079)
+
 
 
  
@@ -99,12 +99,13 @@ For Transient Analysis Settings and Output
  
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+
 
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![Screenshot 2024-09-03 234618](https://github.com/user-attachments/assets/50f67743-a5b5-44ce-af45-55bd38688c56)
+
 
  
 
